@@ -6,14 +6,14 @@ Phishing websites are a major cybersecurity threat that attempt to mimic legitim
 
 📌 **Table of Contents**
 
-- [Overview](#overview)
-- [Problem Statement](#problem-statement)
-- [Tech Stack](#tech-stack)
-- [Dataset](#dataset)
-- [Approach](#approach)
-- [Results](#results)
-- [Future Work](#future-work)
-- [Author](#author)
+- Overview
+- Problem Statement
+- Tech Stack
+- Dataset
+- Approach
+- Results
+- Future Work
+- Author
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
